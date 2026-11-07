@@ -1,0 +1,1 @@
+No AI tools were used while working on the assignment. Any corrections made to the code were made to fix typos or other such mistakes. One thing I can do now is utilize while loops in C++. One thing I still need to practice is output formatting.
